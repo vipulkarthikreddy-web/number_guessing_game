@@ -12,6 +12,19 @@ The project is a Number Guessing Game where users try to guess a randomly genera
 
 Through this project, I learned how to connect a React frontend with a Spring Boot backend, build REST APIs, interact with a MySQL database, and organize a full-stack application.
 
+## ✨ Features
+
+- 👤 User Registration and Login
+- 🎮 Interactive Number Guessing Game
+- 🔢 Random number generation between 1 and 100
+- 💬 Instant feedback (Too High / Too Low / Correct)
+- 📊 Personal statistics dashboard
+- 🏆 Best score tracking
+- 🔄 Play Again functionality
+- 💾 MySQL database integration
+- 🔗 REST API communication between frontend and backend
+- 🎨 Modern responsive user interface
+
 ## 📁 Project Structure
 
 ```
