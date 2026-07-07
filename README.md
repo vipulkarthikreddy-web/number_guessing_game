@@ -2,14 +2,6 @@
 
 A full-stack Number Guessing Game built using React, Vite, Spring Boot, and MySQL.
 
-# 🎯 Number Guessing Game
-
-![Java](...)
-![Spring Boot](...)
-![React](...)
-![MySQL](...)
----
-
 ## 📖 About the Project
 
 This is my first full-stack web application built as part of my learning journey in web development.
