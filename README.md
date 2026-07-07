@@ -1,6 +1,6 @@
 # 🎯 Number Guessing Game
 
-A full-stack number guessing game built with **React + Vite** (frontend) and **Spring Boot + MySQL** (backend).
+A full-stack Number Guessing Game built using React, Vite, Spring Boot, and MySQL.
 
 ---
 
