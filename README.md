@@ -19,7 +19,7 @@ Through this project, I learned how to connect a React frontend with a Spring Bo
 - 📊 Personal statistics dashboard
 - 🏆 Best score tracking
 - 🔄 Play Again functionality
-- 💾 MySQL database integration
+- 💾 Game progress stored in MySQL
 - 🔗 REST API communication between frontend and backend
 - 🎨 Modern responsive user interface
 
@@ -58,6 +58,17 @@ When the correct number is guessed, the game congratulates the player, displays 
 ![Winning Screen](screenshots/win.png)
 
 ---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| Frontend | React 18, Vite 5 |
+| HTTP Client | Axios |
+| Backend | Spring Boot 3.2, Java 17 |
+| ORM | Spring Data JPA / Hibernate |
+| Database | MySQL 8 |
+| Build Tool | Maven |
 
 ## 📁 Project Structure
 
@@ -233,13 +244,24 @@ Submit a guess for an active game.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 What I Learned
 
-| Layer | Technology |
-|-------|-----------|
-| Frontend | React 18, Vite 5 |
-| HTTP Client | Axios |
-| Backend | Spring Boot 3.2, Java 17 |
-| ORM | Spring Data JPA / Hibernate |
-| Database | MySQL 8 |
-| Build Tool | Maven |
+Building this project helped me strengthen my understanding of full-stack web development. Through this project, I learned:
+
+- Building REST APIs using Spring Boot
+- Connecting a React frontend with a Spring Boot backend
+- Managing data using MySQL and Spring Data JPA
+- Handling user authentication and login functionality
+- Organizing a full-stack project with separate frontend and backend modules
+- Using Git and GitHub for version control and project management
+- Debugging and testing API communication between frontend and backend
+
+## 🚀 Future Improvements
+
+Some features I would like to add in future versions:
+
+- 🎮 Multiple difficulty levels
+- 🌍 Global leaderboard
+- 📱 Improved mobile responsiveness
+- 🔐 JWT-based authentication
+- 🐳 Docker support for easier deployment
