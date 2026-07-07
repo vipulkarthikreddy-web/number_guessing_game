@@ -4,6 +4,14 @@ A full-stack Number Guessing Game built using React, Vite, Spring Boot, and MySQ
 
 ---
 
+## 📖 About the Project
+
+This is my first full-stack web application built as part of my learning journey in web development.
+
+The project is a Number Guessing Game where users try to guess a randomly generated number between 1 and 100. The frontend is built with React and Vite, while the backend uses Spring Boot with MySQL to manage game data.
+
+Through this project, I learned how to connect a React frontend with a Spring Boot backend, build REST APIs, interact with a MySQL database, and organize a full-stack application.
+
 ## 📁 Project Structure
 
 ```
