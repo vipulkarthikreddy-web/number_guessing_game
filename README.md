@@ -25,6 +25,42 @@ Through this project, I learned how to connect a React frontend with a Spring Bo
 - 🔗 REST API communication between frontend and backend
 - 🎨 Modern responsive user interface
 
+---
+
+# 📸 Screenshots
+
+## 🔐 Login & Registration
+
+A secure authentication page where users can register or log in before playing the game.
+
+![Login Page](screenshots/login.png)
+
+---
+
+## 🎮 Gameplay
+
+Users can start a new game, enter guesses, and receive instant feedback indicating whether the guess is too high, too low, or correct.
+
+![Gameplay](screenshots/home.png)
+
+---
+
+## 📊 User Statistics
+
+A personal dashboard displaying the total number of games played, games won, total guesses, and the player's best score.
+
+![Statistics Dashboard](screenshots/stats.png)
+
+---
+
+## 🏆 Winning Screen
+
+When the correct number is guessed, the game congratulates the player, displays the total attempts, and allows them to start a new game.
+
+![Winning Screen](screenshots/win.png)
+
+---
+
 ## 📁 Project Structure
 
 ```
