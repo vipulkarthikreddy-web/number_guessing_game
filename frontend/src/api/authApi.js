@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const BASE_URL = "https://numberguessinggame-production-7ac2.up.railway.app/";
+const BASE_URL = "https://numberguessinggame-production-7ac2.up.railway.app/api/auth";
 
 export const registerUser = async (username, password) => {
   const res = await axios.post(`${BASE_URL}/register`, { username, password })
