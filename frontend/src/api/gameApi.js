@@ -1,7 +1,6 @@
 import axios from 'axios'
 
-const BASE_URL =
-  'https://numberguessinggame-production-7ac2.up.railway.app/api/game'
+const BASE_URL = 'https://numberguessinggame-production-7ac2.up.railway.app/api/game'
 
 export const startGame = async (userId) => {
   const response = await axios.post(`${BASE_URL}/start`, { userId })
