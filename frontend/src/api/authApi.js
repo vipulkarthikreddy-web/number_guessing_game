@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const BASE_URL = 'http://localhost:8080/api/auth'
+const BASE_URL = "https://YOUR-RAILWAY-BACKEND.up.railway.app/api/auth";
 
 export const registerUser = async (username, password) => {
   const res = await axios.post(`${BASE_URL}/register`, { username, password })
